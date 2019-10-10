@@ -1,0 +1,56 @@
+body{
+    line-height: 1.5;
+    border: 20px solid beige    
+}
+.ma-class1 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 30px;
+    /* border: 2px solid; */
+    border-bottom: 2px solid black;
+    border-top: 2px solid black;
+}
+.ma-class1:hover{
+    text-decoration:underline
+}
+.ma-class2 {
+    font-family: 'Satisfy', cursive;
+    font-size: 20px;
+    text-align: right;
+}
+.ma-class3 {
+    font-weight: bold;
+    font-style: italic;
+}
+h1{
+    margin: 50px 0;
+}
+ul {     
+    list-style-type:circle;
+}
+
+ol { 
+    list-style-type: upper-latin;
+}
+img{
+    border-radius: 20px;
+}
+#texte{
+    background-image: url("https://img.ev.mu/images/villes/2388/600x400/2388.jpg");
+width: 30%;
+background-repeat: no-repeat;
+border-radius: 20px;
+}
+p{
+    width: 40%;
+    margin-bottom: 100px
+}
+body {
+    width: 800px;
+    margin: 0;
+}
+
+#Finale {
+    background-color: pink;
+    padding: 20px 20px;
+    margin: 20px 20px;
+}
